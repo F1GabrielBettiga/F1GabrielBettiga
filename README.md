@@ -9,23 +9,28 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-<h3 align="center">About me</h3>
+<img
+  align="right"
+  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
+  width="260"
+  alt="Coding"
+/>
 
-<p align="center">
-  I am Gabriel from Buenos Aires, Argentina 🇦🇷
+<h3>About me</h3>
+
+<p>
+I am Gabriel from Buenos Aires, Argentina 🇦🇷
 </p>
 
-<p align="center">
-  Backend developer and systems analyst with experience in software development and IT support.
-  I also work as a computer technician and have over three years of experience in systems and infrastructure.
+<p>
+Backend developer and systems analyst with experience in software development and IT support.
+I also work as a computer technician and have over three years of experience in systems and infrastructure.
 </p>
+
+<br clear="right"/>
 
 <h3 align="center">Languages and tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,bootstrap,git,github,windows,mysql,visualstudio,vscode,dotnet" />
-</p
-
-
-
-
+</p>
