@@ -2,12 +2,12 @@
   <a href="https://www.linkedin.com/in/gustavo-bettiga/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:f1gabriel_Bettiga@outlook.es">
+  <a href="mailto:f1gabriel_bettiga@outlook.es">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
-<h2 align="center">Hi, hey, there 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 
 <h3 align="center">About me</h3>
 
