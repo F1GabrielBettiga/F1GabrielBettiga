@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-bettiga/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:f1gabriel_Bettiga@outlook.es">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-<!--
-**F1GabrielBettiga/F1GabrielBettiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi, hey, there 👋</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">About me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am Gabriel from Buenos Aires, Argentina 🇦🇷
+</p>
+
+<p align="center">
+  Backend developer and systems analyst with experience in software development and IT support.
+  I also work as a computer technician and have over three years of experience in systems and infrastructure.
+</p>
+
+<h3 align="center">Languages and tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,html,css,js,bootstrap,git,github,windows,mysql,visualstudio,vscode,dotnet" />
+</p
+
+
+
+
